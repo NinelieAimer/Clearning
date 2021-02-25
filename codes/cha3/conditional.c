@@ -5,5 +5,5 @@ int main(void){
     printf("Please enter n2:"); scanf("%d",&n2);
 
     printf("The max one is %d",n1>n2?n1:n2);
-    return 0;
+    return 0; 
 }
